@@ -1,0 +1,17 @@
+<customrecordtype scriptid="customrecord_10">
+    <accesstype>CUSTRECORDENTRYPERM</accesstype>
+    <description></description>
+    <enabledle>T</enabledle>
+    <includename>T</includename>
+    <recordname></recordname>
+    <customrecordcustomfields>
+        <customrecordcustomfield scriptid="custrecord_">
+            <description></description>
+            <displaytype>NORMAL</displaytype>
+            <fieldtype>TEXT</fieldtype>
+            <label></label>
+            <ismandatory>F</ismandatory>
+            <storevalue>T</storevalue>
+        </customrecordcustomfield>
+    </customrecordcustomfields>
+</customrecordtype>
